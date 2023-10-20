@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("GPA Calc")
+st.title("GPA Calculator")
 
 subcredit={
      "Professional English- I": 3,
